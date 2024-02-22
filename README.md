@@ -8,3 +8,12 @@ I'm OmSPluto, a Computer Science student passionate about exploring the world of
 - 📫 How to reach me: [ThatswhatShesaid976@gmail.com].
 
 Feel free to explore my repositories, and let's connect and collaborate on some cool projects! 🚀
+## Skills and Technologies
+
+- Programming Languages: Python 🐍, JavaScript 💻
+- Web Technologies: HTML5 🌐, CSS3 🎨
+- Frameworks: Django 🌐, React ⚛️
+- Databases: MySQL 🐬, MongoDB 🍃
+- Version Control: Git 📜
+- Data Analysis: Pandas 🐼, NumPy 🔢
+- Machine Learning: scikit-learn 🤖, TensorFlow 🧠
